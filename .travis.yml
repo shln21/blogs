@@ -2,8 +2,8 @@ language: "node_js"
 node_js:
   - "14"
 install:
-  - "npm install -g gitbook"
-  - "npm install -g gitbook-cli"
+  - "npm install gitbook"
+  - "npm install gitbook-cli@2.3.0"
 branches:
   only:
     - master
