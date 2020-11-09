@@ -39,12 +39,6 @@
         "anchor-navigation-ex-toc@0.0.9",
         "editlink",
         "copy-code-button",
-        "prism",
-        "-highlight",
-        "advanced-emoji",
-        "simple-page-toc",
-        "local-video",
-        "splitter",
         "fontsettings"
     ],
     "pluginsConfig": {
@@ -64,15 +58,6 @@
                 "level2Icon": "fa fa-hand-o-right",
                 "level3Icon": "fa fa-hand-o-right"
             }
-        },
-        "prism": {
-            "css": [
-                "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
-            ]
-        },
-        "simple-page-toc": {
-            "maxDepth": 3,
-            "skipFirstH1": true
         }
     }
 }
