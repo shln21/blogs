@@ -44,7 +44,8 @@
         "advanced-emoji",
         "simple-page-toc",
         "local-video",
-        "splitter"
+        "splitter",
+        "fontsettings"
     ],
     "pluginsConfig": {
         "github": {
